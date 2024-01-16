@@ -1,0 +1,1 @@
+1 Core3 0 2 Core4 0 3 Core1 1 4 Core2 1 5 Core3 1 8 Core1 3 9 Core2 3 6 Core4 3 7 Core3 3 10 Core4 4 11 Core3 6 12 Core4 6 13 Core1 7 14 Core2 7 15 Core3 7 16 Core4 7 

@@ -1,0 +1,30 @@
+/*
+		while(1)
+		{	
+			int r = fread(&c, sizeof(c), 1, fp);
+			if(r <= 0)
+			{
+				break;
+			}
+			if(c == '(')
+			{
+				fscanf(fp, " %d , %d ", &num1, &num2);
+				fread(&c, sizeof(c), 1, fp);
+				if(c != ')')
+				{
+					printf("Input Error when reading file\n");
+					exit(0);
+				}
+				InsertNode(res, num1, num2);
+			}
+			else if(c == ' ' || c == '\r' || c == '\n')
+			{
+				continue;
+			}
+			else
+			{
+				printf("Input Error when reading file\n");
+				exit(0);
+			}
+		}
+		*/
